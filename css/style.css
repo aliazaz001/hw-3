@@ -1,0 +1,30 @@
+body{
+	margin: 0;
+	padding: 0;
+	background:  #cce7ff;
+}
+
+
+h1{
+	border: 5px solid; green;
+
+	background-color: red;
+}
+h2{
+	color:green;
+}
+p{
+	 font-size: 20px;
+	 color: blue;
+		 position: absolute;
+	 top: 15%;
+	 left: 18%;
+	}
+
+.header {
+  padding: 10px;
+  text-align: left;
+  background: #1abc9c;
+  color: white;
+  font-size:10px;
+}
